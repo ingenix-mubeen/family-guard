@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.FamilyGuard" parent="Theme.MaterialComponents.Light" />
+</resources>

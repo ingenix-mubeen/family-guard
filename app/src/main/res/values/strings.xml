@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FamilyGuard</string>
+    <string name="accessibility_service_description">Monitors and prevents unauthorized app installations.</string>
+</resources>
